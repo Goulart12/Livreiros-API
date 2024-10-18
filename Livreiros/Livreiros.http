@@ -1,0 +1,6 @@
+@Livreiros_HostAddress = http://localhost:5222
+
+GET {{Livreiros_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
